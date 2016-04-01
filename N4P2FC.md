@@ -12,11 +12,11 @@ Gestion des événements collaboratif
 
 # Les petits cuistots
 
-Commander et emporter des plats préparés par des particuliers pationnés de cuisine.
+Commander et emporter des plats préparés par des particuliers passionnés de cuisine.
 
 ## Équipe
 
-* 
+* elora marchand
 
 ## Resources
 
